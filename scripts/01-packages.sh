@@ -47,6 +47,7 @@ options(repos = c(REPO_NAME = "https://packagemanager.rstudio.com/all/latest"))
 install.packages("tidymodels")
 install.packages("pkgdown")
 install.packages("highcharter")
+install.packages("rtweet")
 
 q()
 EOF
